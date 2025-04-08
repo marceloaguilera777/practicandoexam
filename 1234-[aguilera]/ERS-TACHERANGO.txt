@@ -1,0 +1,58 @@
+# Documento de Requisitos de Software
+
+## 1. Introducción.
+	Con el rapido crecimiento de Bolivia  las diferentes aplicaciones de transporte necesitan una forma que los usuarios tengan una experiencia confiable, ágil y moderna para solicitar el servicio a traves de sus dispositivos moviles y web. Ahí es donde nace Tacherango.
+
+	Tacherango es un aplicación que busca transformar la forma en la que los pasajeros y conductores se conectan en Bolivia, ofreciendo un servicio seguro, accesible y eficiente en todo el territorio nacional.
+	
+A continuación se declararan las características clave que tendrá el sistema, también publico objetivo, y descripción de los requisitos funcionales y no funcionales. Con el objetivo de dar una explicación y visión clara para su desarrollo exitoso.
+
+	
+### 1.1. Alcance del Producto.
+	Tacherango es una aplicación móvil y pagina web desarrollada para conectar a pasajeros y conductores de manera rápida, segura y eficiente en Bolivia. La aplicación permitirá solicitar servicios de transporte en tiempo real usando la geolocalización a través de la API de Google maps, y acceder a un sistema de registro de pasajeros  como conductores con verificación de Identidad (Datos Personales del Usuario). El sistema ofrecerá distinta calidad del transporte como Economy, Confort, Confort+. También contara con un historial de viajes, sistema de notificaciones en tiempo real, chat entre conductor y pasajero, y un apartado especial para cupones y descuentos. Al finalizar el trayecto, los usuarios podrán calificar el servicio y brindar retroalimentación tanto para la aplicación como para los conductores, contribuyendo a así a mejorar.
+Tacherango estará disponible en los 9 departamentos de Bolivia, soportara un flujo de 10,000-100,000 usuarios simultáneos y estará disponible en cinco idiomas Español, Ingles, Portugués, guaraní y aymara. El diseño tendrá los colores Blanco, Rojo y Negro y será minimalista, moderno y juvenil. También será actualizado de forma continua para mantener la calidad del servicio.
+
+### 1.2. Valor del producto.
+
+### 1.3. Público objetivo.
+
+### 1.4. Uso previo.
+
+### 1.5. Descripción general.
+	Tacherango es una aplicación de transporte que conecta a pasajeros y conductores de manera rápida y segura en toda Bolivia. 
+	Disponible en dispositivos móviles y sitios web, permite pagos electrónicos a través de QR, registro de conductores con verificación de datos como carnet de identidad,
+	número de celular y contacto de emergencia. La app utiliza geolocalización en tiempo real mediante la API de Google Maps, 
+	muestra la cantidad de pasajeros por viaje y permite la valoración del servicio al final de cada trayecto. Tacherango está disponible en español, inglés, portugués, guaraní y aymara, 
+	y cubre todos los departamentos de Bolivia. Con un diseño moderno, juvenil y minimalista, la app asegura un funcionamiento óptimo con conexión a internet estable y seguridad avanzada. 
+	Además, se actualiza regularmente para garantizar un servicio de calidad y soporta entre 10,000 y 100,000 usuarios simultáneos.
+
+## 2. Requisitos.
+
+### 2.1. Requisitos funcionales.
+1. Debe tener botón de botón de RIDES.
+2. Un shortcut de el historial "Last Travels".
+3. Google Maps integrado y ubicación escrita vinculada.
+4. Metodos y Pasarela de Pagos.
+5. Opción de registro de pasajeros; foto, carnet, nombre completo y edad.
+6. Botón de Support (Soporte al Cliente).
+7. Apartado de Gifts and Discounts para solacer cupones, descuentos y reembolsos.
+8. Opción de Taxi Confort, Economy & Confort+.
+9. Apartado de agregar contacto de seguridad.
+10. Display donde aparezca la ubicación e identidad del conductor.
+11. Chat integrado para la comunicación el conductor/pasajero.
+12. Opción de Rating de 1 a 5 estrellas después del viaje.
+13. Feedback para la APP y para los Choferes.
+14. Pantalla para puntuar el app en APP Store o Google play store.
+15. Opción para que lleguen notificaciones cuándo el rider este cerca.
+
+### 2.2. Requisitos de diseño.
+1. Minimalista
+2. Moderna
+3. Mantener una combinación de colores Rojos, Blancos y Negro.
+
+### 2.3. Requisitos no funcionales.
+	- Seguridad: Abarca una seguridad alta.
+	- Internet: Cuenta con un internet estable.
+	- Soporte: Con un soporte regular con mejoras continuas
+
+
